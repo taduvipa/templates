@@ -5,8 +5,6 @@
     "Web app"
   ],
   "icon": "http://foo.svg",
-  "host": {
-    "virtualization": true,
   "publisher": {},
   "params": [
     {
