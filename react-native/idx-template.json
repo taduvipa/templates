@@ -4,7 +4,7 @@
   "categories": [
     "Backend"
   ],
-  "icon": "https://www.gstatic.com/monospace/231115/logo_react-native.svg",
+  "icon": "https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png",
   "publisher": "Google LLC",
   "host": {
     "virtualization": true
