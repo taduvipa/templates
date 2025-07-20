@@ -6,7 +6,7 @@
   ],
   "icon": "http://foo.svg",
   "host": {
-    "virtualization": true
+    "virtualization": true,
   "publisher": {},
   "params": [
     {
