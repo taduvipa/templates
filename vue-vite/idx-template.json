@@ -6,6 +6,9 @@
   ],
   "icon": "https://www.gstatic.com/monospace/231115/logo_vue.svg",
   "publisher": "Google LLC",
+  "host": {
+    "virtualization": true
+  },
   "params": [
     {
       "id": "language",
